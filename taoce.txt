@@ -1,11 +1,2 @@
-git.exe push --progress  "origin" test
-
-Counting objects: 11, done.
-Delta compression using up to 4 threads.
-Compressing objects: 100% (7/7), done.
-Writing objects: 100% (7/7), 1016 bytes | 0 bytes/s, done.
-Total 7 (delta 1), reused 0 (delta 0)
-To https://github.com/ht920/dailyWork.git
-510dd19..5ae22f3  test -> test
-
-成功 (38813 ms @ 2016/1/9 22:03:35)
+陶雪焦
+taoce.txt
